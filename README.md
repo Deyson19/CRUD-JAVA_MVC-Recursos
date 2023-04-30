@@ -40,5 +40,3 @@ En este video, aprenderás cómo limpiar los campos del formulario después de h
 En este último video de la serie, veremos cómo editar los registros de la base de datos a través del formulario que creamos en el video 5. Aprenderemos cómo capturar los datos del registro a editar, cómo cargarlos en los campos del formulario y cómo actualizarlos en la base de datos después de que el usuario haya realizado los cambios.
 
 Espero que hayas disfrutado de esta serie de videos y que hayas aprendido mucho sobre cómo crear una aplicación CRUD con Java, MySQL y patrón MVC. Si tienes alguna pregunta o comentario, no dudes en dejármelo saber en la sección de comentarios de los videos.
-
-¡Gr
